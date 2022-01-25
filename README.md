@@ -3,5 +3,6 @@ Repositório criado para o desafio do Bootcamp.
 
 ## Links Úteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
-[Download Git] (https://git-scm.com/downloads)
+
+[Download Git](https://git-scm.com/downloads)
 
