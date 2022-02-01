@@ -6,3 +6,4 @@ Repositório criado para o desafio do Bootcamp.
 
 [Download Git](https://git-scm.com/downloads)
 
+[Download Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/)
